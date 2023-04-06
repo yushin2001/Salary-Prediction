@@ -1,6 +1,5 @@
 # 104人力銀行新鮮人職缺之薪資預測模型
-- 程式碼（ipynb及html檔）皆位於sldl_salary_pred/src裡各個資料夾中
-- 資料壓縮檔的雲端連結：https://drive.google.com/file/d/1djsTjze1xV58rpmLcZMyas7mvSXv-IPn/view?usp=sharing
+- 資料壓縮檔連結：https://drive.google.com/file/d/1djsTjze1xV58rpmLcZMyas7mvSXv-IPn/view?usp=sharing
 
 ## Data 
 104人力銀行—新鮮人專區（[link](https://www.104.com.tw/jobs/search/?jobsource=freshman_search&jobexp=1)）
